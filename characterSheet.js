@@ -47,11 +47,11 @@ const data = {
     },
     {
       type: 'Constituição',
-      amount: 10,
+      amount: 70,
     },
     {
       type: 'Destreza',
-      amount: 10,
+      amount: 25,
     },
     {
       type: 'Educação',
